@@ -1,9 +1,9 @@
-# Fortune Cookies for Machines. The reported count excludes the trailing newline.
+# Write one fortune for the make.fun contest and print its length without the newline.
 import os
 from pathlib import Path
 
 
-TEXT = 'You will meet your maker. "Can you make this a PDF?"'
+TEXT = "In your next life, you will remember only your mistakes. The user will paste them in."
 
 
 def main():
